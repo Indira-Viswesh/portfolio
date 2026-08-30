@@ -7,10 +7,10 @@ comments: true
 
 ## As a conversation Starter
 
-Here is the place I have lived:
+Here is the place I have lived:..
 
 <comment>
-Flags are made using Wikipedia images
+Flags are made using Wikipedia images 
 </comment>
 
 <style>
