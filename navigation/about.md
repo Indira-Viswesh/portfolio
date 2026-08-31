@@ -7,7 +7,7 @@ comments: true
 
 ## As a conversation Starter
 
-Here is the place I have lived:
+Here is the place I have lived so far:
 
 <comment>
 Flags are made using Wikipedia images 
@@ -117,7 +117,7 @@ For me, having fun with family and friends is very close to my heart. Here is so
 Gallery of Pics, scroll to the right for more ...
 </comment>
 <div class="image-gallery">
-  <img src="{{site.baseurl}}/images/about/missionary.jpg" alt="Image 1">
+  <img src="C:\Users\ramya\Downloads\DSC_0722 Copy (1).JPG" alt= "Image 1" >
   <img src="{{site.baseurl}}/images/about/john_tamara.jpg" alt="Image 2">
   <img src="{{site.baseurl}}/images/about/tamara_fam.jpg" alt="Image 3">
   <img src="{{site.baseurl}}/images/about/surf.jpg" alt="Image 4">
