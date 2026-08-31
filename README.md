@@ -108,7 +108,7 @@ git remote -v
 # get latest template updates
 git fetch upstream
 git checkout main
-git merge upstream/main
+git merge upstream/main --allow-unrelated-histories
 
 # publish merged updates to your repo
 git push origin main
