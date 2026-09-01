@@ -103,7 +103,7 @@ These are the places I have been
 - 🦬 Yellowstone National Park
 - 🪷 India
 - 🏜️ Sedona
-- ⛰️ Grand Canyon 
+- ⛰️ Grand Canyon:
 
 ### Family and Fun
 

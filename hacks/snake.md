@@ -1,4 +1,4 @@
----
+git---
 layout: opencs
 title: Snake Game
 permalink: /snake/
